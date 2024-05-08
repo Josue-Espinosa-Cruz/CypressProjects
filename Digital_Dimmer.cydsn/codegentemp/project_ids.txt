@@ -1,0 +1,6 @@
+D:\Proyectos\3_Embedded Systems\Cypress\CypressProjects\Digital_Dimmer.cydsn\Digital_Dimmer.cyprj|08747e58-f8c3-4410-b2d9-37195a62e2e7
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|735bc464-6729-4cfe-889d-5783ebfc3d2c
+C:\Users\josue\OneDrive\Documentos\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|d43e8a1e-521e-4bc7-97ca-627b700be1de
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|cc0234dc-ff76-4ede-bd85-e854f3ea79fa
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|856b3d6a-c4d5-4ff0-9f9f-c10796f322f8
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|6984b370-5974-45b2-8d74-3efd64294661
