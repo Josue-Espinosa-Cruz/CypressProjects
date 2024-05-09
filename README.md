@@ -23,4 +23,4 @@
 
 
 ![BlockDiagram](./2_Diagrams/1_Block/Block_Diagram.png)
-![MicroDiagram](./2_Diagrams/2_Microcontroller/TopDesign.png)
+![MicroDiagram](./2_Diagrams/2_Microcontroller/1_TopDesign.png)
