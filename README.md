@@ -7,8 +7,10 @@
     ~~~
 2. **Diagrams:**
     ~~~
-    1. Electronic Diagram
-    2. Microcontroller Diagram
+    1. Block Diagram
+    2. Microcontroller Diagram 
+        1. TopDesign
+        2. Pins
     ~~~
 
 **Features applied:**
@@ -20,5 +22,5 @@
   6. GPIO pins
 
 
-![ElectronicDiagram](./2_Diagrams/1_Electronic/Electronic_Diagram.png)
+![BlockDiagram](./2_Diagrams/1_Block/Block_Diagram.png)
 ![MicroDiagram](./2_Diagrams/2_Microcontroller/TopDesign.png)
