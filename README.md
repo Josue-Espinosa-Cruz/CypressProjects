@@ -4,7 +4,6 @@
     ~~~
     Development Board: CY8CKIT-044 / PSoC 4 M-Series Pioneer Kit
     Manufacturer:Cypress Semiconductor Corporation
-    General specifications: 25 MHz MCU with 128KB Flash, 8KB SRAM
     ~~~
 2. **Diagrams:**
     ~~~
